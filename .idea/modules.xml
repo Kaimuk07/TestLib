@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Test_SDK_Credit.iml" filepath="$PROJECT_DIR$/Test_SDK_Credit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kanthi-library/kanthi-library.iml" filepath="$PROJECT_DIR$/kanthi-library/kanthi-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lib-muk/lib-muk.iml" filepath="$PROJECT_DIR$/lib-muk/lib-muk.iml" />
+    </modules>
+  </component>
+</project>
